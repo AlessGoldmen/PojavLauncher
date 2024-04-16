@@ -103,7 +103,7 @@ Then, run these commands ~~or build using Android Studio~~.
 - [x] Game surface zooming.
 - [x] New input pipe rewritten to native code to boost performance.
 - [x] Rewritten entire controls system (thanks to @Mathias-Boulay)
-- [ ] More to come!
+- [x] More to come!
 
 ## Known Issues
 - Controller mods aren't working.
